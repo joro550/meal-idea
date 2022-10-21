@@ -1,0 +1,71 @@
+﻿[
+  {
+    "Name": "Fishcake tacos",
+    "IngredientList": [
+      {"Name": "Milk", "Quantity": "300ml"},
+      {"Name": "Haddock", "Quantity": "250g"},
+      {"Name": "Potatoes", "Quantity": "350g"},
+      {"Name": "Mango", "Quantity": "1"},
+      {"Name": "Small red chilli", "Quantity": "1"},
+      {"Name": "Coriander", "Quantity": "25g"},
+      {"Name": "Lime", "Quantity": "1"},
+      {"Name": "Mayo", "Quantity": "3 tablespoons"},
+      {"Name": "Spring onions", "Quantity": "Bunch"},
+      {"Name": "Cayenne Pepper", "Quantity": "1/4 tea spoon"},
+      {"Name": "Eggs", "Quantity": "1"},
+      {"Name": "Panko breadcrumbs", "Quantity": "30g"},
+      {"Name": "Vegetable oil", "Quantity": ""},
+      {"Name": "Lettuce", "Quantity": "2"},
+      {"Name": "Corn or flour tacos", "Quantity": "12"}
+    ],
+    "InstructionList": [
+      {"Step": 1, "Direction": "Pour the milk into a saucepan and bring to the boil. Turn down the heat and add the smoked haddock, then gently poach for 3-4 minutes until cooked through and flaky. Lift the fish out of the milk with a slotted spoon, then set aside to cool."},
+      {"Step": 2, "Direction": "Put the potatoes in the leftover milk, topping up with water to cover (if needed). Bring to the boil and simmer for 10-12 minutes until very tender. Drain in a colander and set aside to steam dry."},
+      {"Step": 3, "Direction": "Meanwhile, combine the mango with the chilli, half the coriander and half the lime juice. Season with a pinch of salt and mix well. Mix the remaining lime juice with the mayonnaise."},
+      {"Step": 4, "Direction": "Put the spring onions, lime zest and cayenne pepper in a bowl. Add the potatoes with a pinch of salt and mash everything together until well combined. Flake in the fish, add half the remaining coriander, then stir until you have a dry, firm mixture. Shape into small 3-4cm patties, laying them on a tray as you work. You should get around 24 in total."},
+      {"Step": 5, "Direction": "Put the beaten egg in one shallow dish and the breadcrumbs in another. Heat a good glug of vegetable oil in a large frying pan over a medium heat. One by one, dip the fishcakes in the egg, then the breadcrumbs, then put them straight into the frying pan (you’ll need to work in batches, adding more oil as needed). Cook for 2 minutes on each side until golden and crisp, then drain on kitchen paper."},
+      {"Step": 6, "Direction": "To serve, sprinkle shredded lettuce onto each taco. Top with 2 fishcakes, then a spoonful of lime mayonnaise. Finish with the mango salsa and a pinch of the remaining coriander."}
+    ]
+  },
+
+  {
+    "Name": "Gnocchi with bacon, peas, spinach and mozzarella",
+    "IngredientList": [
+      {"Name": "olive oil", "Quantity": "2 tbsp"},
+      {"Name": "onion", "Quantity": "1"},
+      {"Name": "garlic cloves", "Quantity": "2"},
+      {"Name": "bacon lardons", "Quantity": "200g"},
+      {"Name": "gnocchi", "Quantity": "400g"},
+      {"Name": "low-salt vegetable stock", "Quantity": "200ml"},
+      {"Name": "frozen peas", "Quantity": "100g"},
+      {"Name": "crème fraîche", "Quantity": "150g"},
+      {"Name": "young spinach", "Quantity": "100g"},
+      {"Name": "basil or oregano", "Quantity": "Handful"},
+      {"Name": "mozzarella", "Quantity": "125g"},
+    ],
+    "InstructionList": [
+      {"Step": 1, "Direction": "Heat 1 tbsp of the olive oil in a large pan set over a low-medium heat and cook the onion for 5 minutes until beginning to soften. Add the garlic and cook for a further 2 minutes. Remove the onion/garlic onto a plate and set aside."},
+      {"Step": 2, "Direction": "Turn up the heat to medium and add the remaining oil to the pan. Add the bacon and fry for 5 minutes until crisp, then add the gnocchi and cook for 4-5 minutes more until starting to get some colour."},
+      {"Step": 3, "Direction": "Return the onion and garlic to the pan along with the vegetable stock and peas. Bring to the boil, then reduce to a simmer and cook for 5-7 minutes until the gnocchi are tender."},
+      {"Step": 4, "Direction": "Stir in the crème fraîche and warm through over the heat until the sauce thickens slightly. Add the spinach and basil/oregano, stir until the leaves wilt, then dot over the mozzarella and season well with salt and black pepper. Serve with crusty bread and a big green salad on the side, if you like."},
+    ]
+  },
+  
+  {
+    "Name": "Baked potatoes with smoked salmon and soured cream",
+    "IngredientList": [
+      {"Name": "baking potatoes", "Quantity": "4"},
+      {"Name": "Olive oil", "Quantity": "4"},
+      {"Name": "soured cream", "Quantity": "300ml"},
+      {"Name": "Small bunch dill", "Quantity": ""},
+      {"Name": "Grated lemons", "Quantity": "2"},
+      {"Name": "capers", "Quantity": "2 tsp"},
+      {"Name": "Small bunch chives", "Quantity": "2 tsp"},
+      {"Name": "hot-smoked salmon", "Quantity": "200g"}
+    ],
+    "InstructionList": [
+      {"Step": 1, "Direction": "Heat the oven to 200ºC fan/gas 8. Prick the potatoes all over with a fork, then rub with the oil, put on a baking sheet and season with sea salt. Bake in the oven for 1 hour or until crispy on the outside and cooked through."},
+      {"Step": 1, "Direction": "In a bowl combine the soured cream, dill, zest, capers and chives. Season. Cut a deep cross into the potato tops, then fill with soured cream mix and hot smoked salmon. Serve with the rest of the soured cream."}
+    ]
+  }
+]
