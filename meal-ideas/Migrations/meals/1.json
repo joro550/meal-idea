@@ -41,13 +41,13 @@
       {"Name": "crème fraîche", "Quantity": "150g"},
       {"Name": "young spinach", "Quantity": "100g"},
       {"Name": "basil or oregano", "Quantity": "Handful"},
-      {"Name": "mozzarella", "Quantity": "125g"},
+      {"Name": "mozzarella", "Quantity": "125g"}
     ],
     "InstructionList": [
       {"Step": 1, "Direction": "Heat 1 tbsp of the olive oil in a large pan set over a low-medium heat and cook the onion for 5 minutes until beginning to soften. Add the garlic and cook for a further 2 minutes. Remove the onion/garlic onto a plate and set aside."},
       {"Step": 2, "Direction": "Turn up the heat to medium and add the remaining oil to the pan. Add the bacon and fry for 5 minutes until crisp, then add the gnocchi and cook for 4-5 minutes more until starting to get some colour."},
       {"Step": 3, "Direction": "Return the onion and garlic to the pan along with the vegetable stock and peas. Bring to the boil, then reduce to a simmer and cook for 5-7 minutes until the gnocchi are tender."},
-      {"Step": 4, "Direction": "Stir in the crème fraîche and warm through over the heat until the sauce thickens slightly. Add the spinach and basil/oregano, stir until the leaves wilt, then dot over the mozzarella and season well with salt and black pepper. Serve with crusty bread and a big green salad on the side, if you like."},
+      {"Step": 4, "Direction": "Stir in the crème fraîche and warm through over the heat until the sauce thickens slightly. Add the spinach and basil/oregano, stir until the leaves wilt, then dot over the mozzarella and season well with salt and black pepper. Serve with crusty bread and a big green salad on the side, if you like."}
     ]
   },
   
