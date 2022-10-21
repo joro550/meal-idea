@@ -1,6 +1,6 @@
 ﻿namespace meal_ideas.Meals.Request;
 
-public class GetRandomMeal : IHttpResult
+public sealed class GetRandomMeal : IHttpResult
 {
     
 }

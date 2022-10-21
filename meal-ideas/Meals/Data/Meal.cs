@@ -1,8 +1,7 @@
-﻿using meal_ideas.Common;
-
+﻿
 namespace meal_ideas.Meals.Data;
 
-public sealed class Meal : PersistentObject
+public sealed class Meal
 {
     public string Name { get; init; }
         = string.Empty;

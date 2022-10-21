@@ -1,6 +1,6 @@
 ﻿namespace meal_ideas.Meals.Data;
 
-public class Instructions
+public sealed class Instructions
 {
     public int Step { get; init; } = -1;
     
