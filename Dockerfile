@@ -5,14 +5,14 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
-COPY ["/meal-ideas.csproj", "meal-ideas/"]
+COPY ["/meal-ideas/meal-ideas.csproj", "meal-ideas/"]
 RUN dotnet restore "meal-ideas/meal-ideas.csproj"
 COPY . .
 WORKDIR "/src/"
-RUN dotnet build "meal-ideas.csproj" -c Release -o /app/build
+RUN dotnet build "meal-ideas/meal-ideas.csproj" -c Release -o /app/build
 
 FROM build AS publish
-RUN dotnet publish "meal-ideas.csproj" -c Release -o /app/publish
+RUN dotnet publish "meal-ideas/meal-ideas.csproj" -c Release -o /app/publish
 
 FROM base AS final
 WORKDIR /app
